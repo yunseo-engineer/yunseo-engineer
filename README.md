@@ -1,7 +1,7 @@
 <div align="center">
-  <h1 style="color: #000000; font-size: 1500px; margin: 20px 0;">
-    yunseo's github
-  </h1>
+  <img 
+    src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=140&text=yunseo's%20github&fontSize=80&fontColor=000000" 
+  />
 </div>
 
 <!-- Education -->
