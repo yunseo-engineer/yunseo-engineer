@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="color: #000000; font-size: 70px; margin: 20px 0;">
+  <h1 style="color: #000000; font-size: 1500px; margin: 20px 0;">
     yunseo's github
   </h1>
 </div>
